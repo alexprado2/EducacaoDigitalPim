@@ -1,9 +1,0 @@
-{
-  "name": "c",
-  "version": "1.0.0",
-  "description": "npm init",
-  "main": "index.js",
-  "scripts": {  },
-  "author": "Alex",
-  "license": "ISC"
-}
